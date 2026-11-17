@@ -1,0 +1,512 @@
+[
+  {
+    "id": "UPG-01",
+    "title": "Usar geolocalização para o filtros do pais e distrito tanto na search como na criação de anúncios ser automático.",
+    "status": "Done",
+    "source": "Usar geolocalização para o filtros do pais e distrito tanto na search como na criação de anúncios ser automático. (Feito)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-02",
+    "title": "Alterar botão de Fazer Login ou criar conta.",
+    "status": "Done",
+    "source": "Alterar botão de Fazer Login ou criar conta. (Feito)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-03",
+    "title": "Pagina para visualizar o próprio anuncio, diferente dos outros users (Pagina nova).",
+    "status": "Done",
+    "source": "Pagina para visualizar o próprio anuncio, diferente dos outros users (Pagina nova). (feito)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-04",
+    "title": "Criação de conta business.",
+    "status": "Done",
+    "source": "Criação de conta business. (feito)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-05",
+    "title": "Melhorar os cartões dos recomendados e premiums.",
+    "status": "Done",
+    "source": "Melhorar os cartões dos recomendados e premiums. (feito)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-06",
+    "title": "Melhorar a pagina de anúncios.",
+    "status": "Done",
+    "source": "Melhorar a pagina de anúncios. (feito)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-07",
+    "title": "O chat n ficar guardado só de abrir, em caso do anuncio encerrar, aparecer um aviso e opção de eliminar a conversa.",
+    "status": "Done",
+    "source": "O chat n ficar guardado só de abrir, em caso do anuncio encerrar, aparecer um aviso e opção de eliminar a conversa. (feito)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-08",
+    "title": "melhorar o fundo do chat.",
+    "status": "Done",
+    "source": "melhorar o fundo do chat. (feito)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-09",
+    "title": "Fazer Dropbox com update conforme o user vai colocando o input para as marcas/modelos/tudo.",
+    "status": "Done",
+    "source": "Fazer Dropbox com update conforme o user vai colocando o input para as marcas/modelos/tudo. (Feito)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-10",
+    "title": "Adicionar o numero de anúncios ao botão de pesquisa.",
+    "status": "Done",
+    "source": "Adicionar o numero de anúncios ao botão de pesquisa. (Feito)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-11",
+    "title": "meter barra de seleção de tipo de veiculo no criar anuncio.",
+    "status": "Done",
+    "source": "meter barra de seleção de tipo de veiculo no criar anuncio. (feito)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-12",
+    "title": "alterar o tamanho do carrossel no search da home page",
+    "status": "Done",
+    "source": "alterar o tamanho do carrossel no search da home page (feito)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-13",
+    "title": "chat bot com AI",
+    "status": "Done",
+    "source": "chat bot com AI (feito)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-14",
+    "title": "Múltiplas fotos ao mesmo tempo na criação de anuncio",
+    "status": "Done",
+    "source": "Múltiplas fotos ao mesmo tempo na criação de anuncio (feito)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-15",
+    "title": "app com alguns problemas de delay/baixo fps",
+    "status": "Done",
+    "source": "app com alguns problemas de delay/baixo fps (feito)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-16",
+    "title": "botão de concluir nos filtros avançados fica em baixo da barra do telemovel",
+    "status": "Done",
+    "source": "botão de concluir nos filtros avançados fica em baixo da barra do telemovel (feito)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-17",
+    "title": "palavras com formatos diferentes na homepage",
+    "status": "Done",
+    "source": "palavras com formatos diferentes na homepage (feito)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-18",
+    "title": "ano apos variante ainda persiste",
+    "status": "Done",
+    "source": "ano apos variante ainda persiste (feito)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-19",
+    "title": "gráfico de visualizações melhorar",
+    "status": "Done",
+    "source": "gráfico de visualizações melhorar (feito)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-20",
+    "title": "palavras e caracteres ofendidos",
+    "status": "Done",
+    "source": "palavras e caracteres ofendidos (feito)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-21",
+    "title": "pagina de perfil só aparecer apos as informações estarem prontas a serem expostas.",
+    "status": "Done",
+    "source": "pagina de perfil só aparecer apos as informações estarem prontas a serem expostas.(feito)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-22",
+    "title": "Fotos do anúncio poderem ser clicadas para abrir modo galeria.",
+    "status": "Done",
+    "source": "Fotos do anúncio poderem ser clicadas para abrir modo galeria. (feito)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-23",
+    "title": "melhoramento do chat, incluir exclusão de \"bad words\", botão de denunciar conversa.",
+    "status": "Done",
+    "source": "melhoramento do chat, incluir exclusão de \"bad words\", botão de denunciar conversa. (feito)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-24",
+    "title": "Adicionar a base de dados todos os modelos/marcas/tudo.",
+    "status": "Done",
+    "source": "Adicionar a base de dados todos os modelos/marcas/tudo. (feito para os carros)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": "Concluído apenas para carros"
+  },
+  {
+    "id": "UPG-25",
+    "title": "conversas sem notificações dentro e fora da app",
+    "status": "Done",
+    "source": "conversas sem notificações dentro e fora da app (feito, precisa de testes)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": "Validação física pendente"
+  },
+  {
+    "id": "UPG-26",
+    "title": "NavBar desformatação de texto em alguns ecras",
+    "status": "Done",
+    "source": "NavBar desformatação de texto em alguns ecras (feito, falta testes)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": "Validação física pendente"
+  },
+  {
+    "id": "UPG-27",
+    "title": "Dashboard administrativa, em site",
+    "status": "To-do",
+    "source": "Dashboard administrativa, em site",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-28",
+    "title": "Dashborad contabusiness, em site",
+    "status": "To-do",
+    "source": "Dashborad contabusiness, em site",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-29",
+    "title": "Permissões de acesso a noti e a localização logo ao inicio da primeiro uso da app logo ao ligar.",
+    "status": "Done",
+    "source": "Permissões de acesso a noti e a localização logo ao inicio da primeiro uso da app logo ao ligar.(feito)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-30",
+    "title": "Clicar na foto de perfil e abrir em modo galeria.",
+    "status": "Done",
+    "source": "Clicar na foto de perfil e abrir em modo galeria. (feito)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-31",
+    "title": "Modo horizontal das fotos não está correto",
+    "status": "Done",
+    "source": "Modo horizontal das fotos não está correto (feito)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-32",
+    "title": "Pessoa não logada na home em vez de ter o icon de conta, ter um icon de definições com definições básicas (modo escuro/claro, notificações, termos de uso, privacidade)",
+    "status": "To-do",
+    "source": "Pessoa não logada na home em vez de ter o icon de conta, ter um icon de definições com definições básicas (modo escuro/claro, notificações, termos de uso, privacidade)",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "UPG-33",
+    "title": "a notificação tem que desaparecer apos o conteúdo dela ser visto dentro da app",
+    "status": "To-do",
+    "source": "a notificação tem que desaparecer apos o conteúdo dela ser visto dentro da app",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": ""
+  },
+  {
+    "id": "PN-01",
+    "title": "Criar Repositorio no GitHub",
+    "status": "To-do",
+    "activity": 1,
+    "activity_heading": "## 1 \"Criar Repositorio no GitHub\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": "Confirmar conclusão com evidência; não inferir Done da existência deste card."
+  },
+  {
+    "id": "PN-02",
+    "title": "Criar Projeto no GitHub",
+    "status": "To-do",
+    "activity": 2,
+    "activity_heading": "## 2 \"Criar Projeto no GitHub\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": "Confirmar conclusão com evidência; não inferir Done da existência deste card."
+  },
+  {
+    "id": "PN-03",
+    "title": "Adicionar participantes",
+    "status": "To-do",
+    "activity": 3,
+    "activity_heading": "## 3 \"Adicionar participantes\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": "Confirmar conclusão com evidência; não inferir Done da existência deste card."
+  },
+  {
+    "id": "PN-04",
+    "title": "Criar Readme.md",
+    "status": "To-do",
+    "activity": 4,
+    "activity_heading": "## 4 \"Criar Readme.md\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": "Confirmar conclusão com evidência; não inferir Done da existência deste card."
+  },
+  {
+    "id": "PN-05",
+    "title": "Criar tarefa \"Definir doc Visão\"",
+    "status": "To-do",
+    "activity": 5,
+    "activity_heading": "## 5 \"Criar tarefa \"Definir doc Visão\"\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": "Confirmar conclusão com evidência; não inferir Done da existência deste card."
+  },
+  {
+    "id": "PN-06",
+    "title": "Criar pasta no Repositório docs",
+    "status": "To-do",
+    "activity": 6,
+    "activity_heading": "## 6 \"Criar pasta no Repositório docs\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": "Confirmar conclusão com evidência; não inferir Done da existência deste card."
+  },
+  {
+    "id": "PN-07",
+    "title": "Criar ficheiro docvisao.md",
+    "status": "Doing",
+    "activity": 7,
+    "activity_heading": "## 7 \"Criar ficheiro docvisao.md\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": "Confirmar conclusão com evidência; não inferir Done da existência deste card."
+  },
+  {
+    "id": "PN-08",
+    "title": "Criar User Stories",
+    "status": "Doing",
+    "activity": 8,
+    "activity_heading": "## 8 \"Criar User Stories\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": "Confirmar conclusão com evidência; não inferir Done da existência deste card."
+  },
+  {
+    "id": "PN-09",
+    "title": "Criar Protótipos de UX",
+    "status": "Doing",
+    "activity": 9,
+    "activity_heading": "## 9 \"Criar Protótipos de UX\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": "Confirmar conclusão com evidência; não inferir Done da existência deste card."
+  },
+  {
+    "id": "PN-10",
+    "title": "Refinar UserStories com as informações necessárias",
+    "status": "Doing",
+    "activity": 10,
+    "activity_heading": "## 10 \"Refinar UserStories com as informações necessárias\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": "Confirmar conclusão com evidência; não inferir Done da existência deste card."
+  },
+  {
+    "id": "PN-11",
+    "title": "Refinar UX com as informações necessárias",
+    "status": "Doing",
+    "activity": 11,
+    "activity_heading": "## 11 \"Refinar UX com as informações necessárias\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": "Confirmar conclusão com evidência; não inferir Done da existência deste card."
+  },
+  {
+    "id": "PN-12",
+    "title": "Definir Modelo de Casos de Uso",
+    "status": "Doing",
+    "activity": 12,
+    "activity_heading": "## 12 \"Definir Modelo de Casos de Uso\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": "Confirmar conclusão com evidência; não inferir Done da existência deste card."
+  },
+  {
+    "id": "PN-13",
+    "title": "Definir Modelos de Classes",
+    "status": "Doing",
+    "activity": 13,
+    "activity_heading": "## 13 \"Definir Modelos de Classes\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": "Confirmar conclusão com evidência; não inferir Done da existência deste card."
+  },
+  {
+    "id": "PN-14",
+    "title": "Implementar",
+    "status": "To-do",
+    "activity": 14,
+    "activity_heading": "## 14 \"Implementar\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": "Confirmar conclusão com evidência; não inferir Done da existência deste card."
+  },
+  {
+    "id": "PN-15",
+    "title": "Definir/Executar Testes Unitários",
+    "status": "To-do",
+    "activity": 15,
+    "activity_heading": "## 15 \"Definir/Executar Testes Unitários\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": "Confirmar conclusão com evidência; não inferir Done da existência deste card."
+  },
+  {
+    "id": "PN-16",
+    "title": "Executar UserStories como Teste de Aceitação",
+    "status": "To-do",
+    "activity": 16,
+    "activity_heading": "## 16 \"Executar UserStories como Teste de Aceitação\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": "Confirmar conclusão com evidência; não inferir Done da existência deste card."
+  },
+  {
+    "id": "PN-17",
+    "title": "Criar script Playwright (ou outro framework) para executar Testes de Aceitação",
+    "status": "To-do",
+    "activity": 17,
+    "activity_heading": "## 17 \"Criar script Playwright (ou outro framework) para executar Testes de Aceitação\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": "Confirmar conclusão com evidência; não inferir Done da existência deste card."
+  },
+  {
+    "id": "PN-18",
+    "title": "Integrar Testes de Aceitação no GitHub Actions (ou outro CI/CD)",
+    "status": "To-do",
+    "activity": 18,
+    "activity_heading": "## 18 \"Integrar Testes de Aceitação no GitHub Actions (ou outro CI/CD)\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": "Confirmar conclusão com evidência; não inferir Done da existência deste card."
+  },
+  {
+    "id": "PN-19",
+    "title": "Intergrar e Executar SonarQube como gate de qualidade",
+    "status": "To-do",
+    "activity": 19,
+    "activity_heading": "## 19 \"Intergrar e Executar SonarQube como gate de qualidade\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": "Confirmar conclusão com evidência; não inferir Done da existência deste card."
+  },
+  {
+    "id": "PN-20",
+    "title": "Criar Documento de Retrospectiva e Relatório Final",
+    "status": "Doing",
+    "activity": 20,
+    "activity_heading": "## 20 \"Criar Documento de Retrospectiva e Relatório Final\"",
+    "students": "João Santos e Gonçalo Oliveira",
+    "caveat": "Confirmar conclusão com evidência; não inferir Done da existência deste card."
+  }
+]

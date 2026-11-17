@@ -1,0 +1,65 @@
+name: Academic acceptance (Flutter)
+on:
+  workflow_dispatch:
+    inputs:
+      source_ref:
+        description: Commit SHA or ref of Joao-23-Santos/GarageHUB to validate
+        required: true
+        type: string
+      sonar:
+        description: Run configured SonarQube quality gate
+        default: false
+        type: boolean
+permissions:
+  contents: read
+jobs:
+  acceptance:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: academic
+      - uses: actions/checkout@v4
+        with:
+          repository: Joao-23-Santos/GarageHUB
+          ref: ${{ inputs.source_ref }}
+          path: app
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.32.7'
+          channel: stable
+          cache: true
+      - name: Record exact source revision
+        working-directory: app
+        run: git rev-parse HEAD >> "$GITHUB_STEP_SUMMARY"
+      - run: flutter pub get --enforce-lockfile
+        working-directory: app
+      - run: flutter analyze --no-pub
+        working-directory: app
+      - name: Execute functional acceptance scenarios
+        shell: pwsh
+        working-directory: app
+        run: '& ../academic/scripts/academic_acceptance.ps1'
+      - run: flutter test --coverage
+        working-directory: app
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: coverage
+          path: app/coverage
+      - name: Check Sonar configuration
+        if: inputs.sonar
+        env:
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+          SONAR_HOST_URL: ${{ secrets.SONAR_HOST_URL }}
+        run: test -n "$SONAR_TOKEN" && test -n "$SONAR_HOST_URL"
+      - name: Prepare Sonar properties
+        if: inputs.sonar
+        run: cp academic/sonar-project.properties app/sonar-project.properties
+      - uses: SonarSource/sonarqube-scan-action@v6
+        if: inputs.sonar
+        with:
+          projectBaseDir: app
+        env:
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+          SONAR_HOST_URL: ${{ secrets.SONAR_HOST_URL }}
