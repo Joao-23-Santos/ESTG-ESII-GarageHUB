@@ -2,7 +2,7 @@
 ## (a) Objetivo
 Marketplace de veículos: aproximar compradores, particulares e stands, com pesquisa estruturada, publicação de anúncios e negociação por mensagens. Não é um sistema de gestão de oficinas.
 ## (b) Escopo
-Aplicação móvel Android; estrutura Flutter inclui outros destinos, mas suporte equivalente não está demonstrado. Países europeus, preços em EUR, distâncias em km. Dashboards web excluídos do âmbito desta entrega por indicação da equipa.
+Aplicação móvel Android; estrutura Flutter. Países europeus, preços em EUR, distâncias em km.
 ## (c) Partes interessadas
 Visitantes pesquisam; compradores guardam anúncios/pesquisas e contactam; vendedores publicam e acompanham os seus anúncios; stands usam conta empresarial; equipa de suporte analisa denúncias. Administrador é um papel a implementar com autorização no servidor, não um utilizador que se autodeclara administrador.
 ## (d) Equipa
