@@ -6,10 +6,6 @@ on:
         description: Commit SHA or ref of Joao-23-Santos/GarageHUB to validate
         required: true
         type: string
-      sonar:
-        description: Run configured SonarQube quality gate
-        default: false
-        type: boolean
 permissions:
   contents: read
 jobs:
@@ -47,19 +43,3 @@ jobs:
         with:
           name: coverage
           path: app/coverage
-      - name: Check Sonar configuration
-        if: inputs.sonar
-        env:
-          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-          SONAR_HOST_URL: ${{ secrets.SONAR_HOST_URL }}
-        run: test -n "$SONAR_TOKEN" && test -n "$SONAR_HOST_URL"
-      - name: Prepare Sonar properties
-        if: inputs.sonar
-        run: cp academic/sonar-project.properties app/sonar-project.properties
-      - uses: SonarSource/sonarqube-scan-action@v6
-        if: inputs.sonar
-        with:
-          projectBaseDir: app
-        env:
-          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-          SONAR_HOST_URL: ${{ secrets.SONAR_HOST_URL }}

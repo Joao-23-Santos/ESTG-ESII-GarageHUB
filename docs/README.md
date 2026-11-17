@@ -17,4 +17,8 @@ Aplicação principal Flutter/Android com Supabase. A equipa confirmou autoriza�
 O estado Done dos upgrades reproduz as marcações «feito» do TXT, não uma certificação independente. Itens «feito, precisa/falta testes» mantêm Done com validação pendente explícita; «feito para os carros» não implica catálogo completo para outras categorias.
 
 ## Limites do levantamento
-O repositório académico tinha apenas README e WBS; o código analisado está na cópia local GarageHUB, cujo origin aponta para Joao-23-Santos/GarageHUB. Não confundir a criação destes documentos com publicação de todo o código no repositório académico. O relatório final só deve ser entregue após confirmação dos responsáveis, sincronização do Kanban e revisão pela equipa.
+O repositório académico tinha apenas README e WBS; o código analisado está na cópia local GarageHUB, cujo origin aponta para Joao-23-Santos/GarageHUB. Não confundir a criação destes documentos com publicação de todo o código no repositório académico. O relatório de rastreabilidade reflete os cards criados; a equipa deve rever o conteúdo antes de entregar.
+
+SonarQube (19) e dashboards web excluídos por indicação da equipa. A integração Sonar foi retirada do workflow.
+
+[Relatório de três colunas em PDF](Relatorio_ESII_GarageHUB.pdf).

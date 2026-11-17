@@ -1,5 +1,5 @@
 # Retrospectiva e relatório final — 20
-Estado: versão de trabalho; não é uma ata da equipa nem entrega final validada.
+Estado: relatório técnico preparado para revisão da equipa; não é uma ata de reunião nem contém opiniões atribuídas aos estudantes.
 
 ## Produto observado
 Marketplace Flutter com backend Supabase, notificações Firebase e apoio LLM. Implementações e testes evoluíram para responder a problemas observados em aparelhos: overflow, navegação, galerias, moderação e latência percebida.

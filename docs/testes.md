@@ -11,8 +11,8 @@ Usar Flutter widget/integration_test em vez de Playwright para a app Android. Te
 ## 18 — GitHub Actions
 Existe .github/workflows/flutter.yml na cópia local. Verifica formato, análise, testes com cobertura e compilação web. O repositório académico ainda não inclui o código completo; o workflow académico precisa de um checkout do código e não pode validar apenas documentação. Não declarar CI verde sem URL de execução e commit.
 
-## 19 — SonarQube
-Não foram encontrados instância ou token Sonar existentes. Criados sonar-project.properties e integração opcional com gate; configurar SONAR_HOST_URL e SONAR_TOKEN nos secrets do repositório. Não guardar token em ficheiros. Execução/gate pendentes; configurar ferramenta não equivale a passar análise. Validar suporte ao analisador Dart na instância escolhida.
+## 19 — SonarQube dispensado
+Etapa ignorada por indicação expressa da equipa em 17/11/2026. Não foi executada, não tem gate aprovado e não entra no Kanban ativo.
 
 ## Matriz manual mínima
 | Área | Ação | Esperado |
@@ -24,3 +24,6 @@ Não foram encontrados instância ou token Sonar existentes. Criados sonar-proje
 | FPS | Percorrer listas/galerias em profile num aparelho real | Registar frames lentos no DevTools, sem inventar limites observados |
 
 Workflow criado: .github/workflows/academic-acceptance.yml. Execução manual requer source_ref do repositório de código; regista SHA exato. Falha se os testes ainda não tiverem sido publicados nessa revisão. Nenhum resultado remoto é alegado.
+
+## Execução local de 17/11/2026
+44 testes funcionais de aceitação com HTTP simulado aprovados (academic-acceptance-results.log). Não é teste e2e em dispositivo físico, nem comprovação de execução no GitHub Actions. Código local com alterações ainda não publicadas no repositório fonte.
