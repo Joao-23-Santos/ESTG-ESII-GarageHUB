@@ -11,9 +11,6 @@ Usar Flutter widget/integration_test em vez de Playwright para a app Android. Te
 ## 18 — GitHub Actions
 Existe .github/workflows/flutter.yml na cópia local. Verifica formato, análise, testes com cobertura e compilação web. O repositório académico ainda não inclui o código completo; o workflow académico precisa de um checkout do código e não pode validar apenas documentação. Não declarar CI verde sem URL de execução e commit.
 
-## 19 — SonarQube dispensado
-Etapa ignorada por indicação expressa da equipa em 17/11/2026. Não foi executada, não tem gate aprovado e não entra no Kanban ativo.
-
 ## Matriz manual mínima
 | Área | Ação | Esperado |
 |---|---|---|
