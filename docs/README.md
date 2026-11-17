@@ -12,6 +12,7 @@ Aplicação principal Flutter/Android com Supabase. A equipa confirmou autoriza�
 - [Testes, aceitação e qualidade](testes.md): atividades 15–19.
 - [Retrospectiva e relatório](retrospectiva.md): atividade 20; versão de trabalho.
 - [Rastreabilidade](rastreabilidade.md): tabela das três colunas pedidas e backlog completo.
+- [Upgrades móveis implementados nesta entrega](implementacao_mobile.md).
 - [Kanban importável](kanban.json): fonte estruturada para os cards.
 
 O estado Done dos upgrades reproduz as marcações «feito» do TXT, não uma certificação independente. Itens «feito, precisa/falta testes» mantêm Done com validação pendente explícita; «feito para os carros» não implica catálogo completo para outras categorias.
@@ -22,3 +23,6 @@ O repositório académico tinha apenas README e WBS; o código analisado está n
 SonarQube (19) e dashboards web excluídos por indicação da equipa. A integração Sonar foi retirada do workflow.
 
 [Relatório de três colunas em PDF](Relatorio_ESII_GarageHUB.pdf).
+
+## Kanban verificado em 17/11/2026
+50 cards ativos: 45 Done, 4 Doing e 1 To-do. Todos atribuídos às contas Joao-23-Santos e GoncaloBOliveira. Os upgrades recém-implementados continuam Doing até termos finais e validação física.

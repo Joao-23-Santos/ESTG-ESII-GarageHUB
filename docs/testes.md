@@ -27,3 +27,6 @@ Workflow criado: .github/workflows/academic-acceptance.yml. Execução manual re
 
 ## Execução local de 17/11/2026
 44 testes funcionais de aceitação com HTTP simulado aprovados (academic-acceptance-results.log). Não é teste e2e em dispositivo físico, nem comprovação de execução no GitHub Actions. Código local com alterações ainda não publicadas no repositório fonte.
+
+## Regressão após os upgrades móveis
+Suite completa concluída localmente em 17/11/2026: consultar validacao.md para contagem final. Testes simulam rede e não enviam dados à produção.

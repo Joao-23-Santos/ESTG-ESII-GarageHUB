@@ -92,8 +92,8 @@ Os upgrades Done reproduzem o TXT fornecido. UPG-24 só está concluído para ca
 - UPG-29: Done. 
 - UPG-30: Done. 
 - UPG-31: Done. 
-- UPG-32: To-do. 
-- UPG-33: To-do. 
+- UPG-32: Doing. Definições locais implementadas; termos finais pendentes. 
+- UPG-33: Doing. Limpeza de notificações Android implementada; teste físico pendente. 
 - PN-01: Done. Confirmar conclusão com evidência; não inferir Done da existência deste card.
 - PN-02: Done. Confirmar conclusão com evidência; não inferir Done da existência deste card.
 - PN-03: Done. GoncaloBOliveira tem acesso write verificado. Confirmar conclusão com evidência; não inferir Done da existência deste card.
@@ -113,3 +113,8 @@ Os upgrades Done reproduzem o TXT fornecido. UPG-24 só está concluído para ca
 - PN-17: Done. Confirmar conclusão com evidência; não inferir Done da existência deste card.
 - PN-18: Doing. Confirmar conclusão com evidência; não inferir Done da existência deste card.
 - PN-20: Done. Confirmar conclusão com evidência; não inferir Done da existência deste card.
+
+## Atualizações móveis desta entrega
+- Definições de visitante: tema local, opção push sem conta, informação de privacidade; termos finais ainda indisponíveis.
+- Remoção de notificações Android por IDs de mensagens vistas, anúncio aberto e pesquisa carregada. Novas tags publicadas no dispatcher search-alerts v8. Não garante remoção das notificações antigas sem estas tags.
+- Build debug Android e 103 testes dirigidos aprovados; suite completa concluída com 3692 testes aprovados.

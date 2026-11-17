@@ -350,24 +350,24 @@
   {
     "id": "UPG-32",
     "title": "Pessoa não logada na home em vez de ter o icon de conta, ter um icon de definições com definições básicas (modo escuro/claro, notificações, termos de uso, privacidade)",
-    "status": "To-do",
+    "status": "Doing",
     "source": "Pessoa não logada na home em vez de ter o icon de conta, ter um icon de definições com definições básicas (modo escuro/claro, notificações, termos de uso, privacidade)",
     "activity": 14,
     "activity_heading": "## 14 \"Implementar\"",
     "students": "João Santos e Gonçalo Oliveira",
-    "caveat": "",
+    "caveat": "Implementado localmente; termos finais/validação física ainda pendentes. Ver issue.",
     "issue_number": 32,
     "url": "https://github.com/Joao-23-Santos/ESTG-ESII-GarageHUB/issues/32"
   },
   {
     "id": "UPG-33",
     "title": "a notificação tem que desaparecer apos o conteúdo dela ser visto dentro da app",
-    "status": "To-do",
+    "status": "Doing",
     "source": "a notificação tem que desaparecer apos o conteúdo dela ser visto dentro da app",
     "activity": 14,
     "activity_heading": "## 14 \"Implementar\"",
     "students": "João Santos e Gonçalo Oliveira",
-    "caveat": "",
+    "caveat": "Implementado localmente; termos finais/validação física ainda pendentes. Ver issue.",
     "issue_number": 33,
     "url": "https://github.com/Joao-23-Santos/ESTG-ESII-GarageHUB/issues/33"
   },
